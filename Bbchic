@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>B2 HIC - Moda Elegante per Bambini</title>
+  <style>
+    body { font-family: sans-serif; background: #f9f9f9; margin: 0; padding: 0; }
+    header { background: #cce6ff; padding: 20px; text-align: center; }
+    section { padding: 20px; }
+    .product { border: 1px solid #ccc; padding: 10px; margin: 10px 0; background: #fff; }
+    .price { font-weight: bold; color: #0077cc; }
+    button { background: #0077cc; color: white; border: none; padding: 10px; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>B2 HIC</h1>
+    <p>Moda Elegante per Ogni Occasione</p>
+  </header>
+
+  <section>
+    <h2>Prodotti in evidenza</h2>
+    <div class="product">
+      <h3>Body per bimba</h3>
+      <p class="price">7,50 €</p>
+      <button>Aggiungi al carrello</button>
+    </div>
+    <div class="product">
+      <h3>Smoking elegante</h3>
+      <p class="price">39,00 €</p>
+      <button>Aggiungi al carrello</button>
+    </div>
+    <div class="product">
+      <h3>Abito elegante bimba</h3>
+      <p class="price">35,90 €</p>
+      <button>Aggiungi al carrello</button>
+    </div>
+  </section>
+
+  <section>
+    <h2>Abbonamento Oro</h2>
+    <p>100,00 € ogni mese</p>
+    <p>Accedi in qualsiasi momento alla nostra raccolta in costante crescita di lezioni, workshop e contenuti esclusivi. Aggiungiamo nuovi articoli ogni mese.</p>
+    <button>Iscriviti</button>
+  </section>
+</body>
+</html>
